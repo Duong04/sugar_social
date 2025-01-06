@@ -30,7 +30,7 @@
 
 
 <script setup>
-import { SubItem } from "@components/Sidebar";
+import { SubItem } from "@components/sidebars";
 
 defineProps({
   name: {

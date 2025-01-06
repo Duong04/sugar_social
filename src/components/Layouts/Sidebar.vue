@@ -85,7 +85,7 @@
 </template>
 
 <script setup>
-import { MenuItem, Shortcut, PageItem } from "@components/Sidebar";
+import { MenuItem, Shortcut, PageItem } from "@components/sidebars";
 
 const menuList = [
   {
